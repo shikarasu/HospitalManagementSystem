@@ -1,0 +1,12 @@
+HOSPITAL MANAGEMENT SYSTEM IN C#
+
+**Login Details**
+
+USERNAME : admin
+PASSWORD : password
+
+**Developed By Brandon Hunter**
+
+- Database needs to be set before using in new pc from (C:\C# Projects\HOSPITAL_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\HospitalManagementSystem_C#\HospitalManagementSystemCSharp\HospitalManagementSystemCSharp) to your own on each and every module.
+
+THANK YOU FOR DOWNLOADING :) 
